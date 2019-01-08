@@ -15,7 +15,7 @@ int main() {
     std::thread threadObj1(thread_function);
     std::thread threadObj2(thread_function);
     //sleep(1);
-    usleep(10000);
+    usleep(1000);
     std::cout << "thread1 id: " << threadObj1.get_id() << std::endl;
     std::cout << "thread2 id: " << threadObj2.get_id() << std::endl;
     
