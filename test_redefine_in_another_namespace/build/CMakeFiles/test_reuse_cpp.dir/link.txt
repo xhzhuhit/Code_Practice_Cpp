@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/test_reuse_cpp.dir/src/main.cpp.o CMakeFiles/test_reuse_cpp.dir/src/do_something.cpp.o  -o test_reuse_cpp -rdynamic libbadbad.so -ldl -Wl,-rpath,/home/zhuxiaohui/test_everything/test_redefine_in_another_namespace/build 

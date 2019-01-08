@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhuxiaohui/test_everything/Practice_concepts_autopilot_localization/test_multiThread/src/main.cpp
+thread
+-
+iostream
+-
+unistd.h
+-
+mutex
+-
+

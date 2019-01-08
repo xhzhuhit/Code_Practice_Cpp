@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhuxiaohui/test_everything/test_redefine_in_another_namespace/src/utils/do_something.cpp
+../../utils/do_something.h
+/home/zhuxiaohui/test_everything/test_redefine_in_another_namespace/utils/do_something.h
+
+/home/zhuxiaohui/test_everything/test_redefine_in_another_namespace/utils/do_something.h
+iostream
+-
+vector
+-
+

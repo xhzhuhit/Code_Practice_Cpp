@@ -1,0 +1,4 @@
+/home/zhuxiaohui/test_everything/test_redefine_in_another_namespace/build/CMakeFiles/rebuild_cache.dir
+/home/zhuxiaohui/test_everything/test_redefine_in_another_namespace/build/CMakeFiles/test_reuse_cpp.dir
+/home/zhuxiaohui/test_everything/test_redefine_in_another_namespace/build/CMakeFiles/edit_cache.dir
+/home/zhuxiaohui/test_everything/test_redefine_in_another_namespace/build/CMakeFiles/badbad.dir
