@@ -7,3 +7,8 @@ add_executable(testMultiThread
 target_link_libraries(testMultiThread
         pthread
         )
+add_executable(testNotify
+        src/notify.cpp)
+target_link_libraries(testNotify
+        pthread
+        )
